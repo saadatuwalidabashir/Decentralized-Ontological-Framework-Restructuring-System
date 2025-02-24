@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.logical-consistency-preservation]
+path = 'contracts/logical-consistency-preservation.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.reality-axiom-redefinition]
 path = 'contracts/reality-axiom-redefinition.clar'
 clarity_version = 2

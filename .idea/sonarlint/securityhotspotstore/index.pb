@@ -5,3 +5,5 @@ Y
 )contracts/reality-axiom-redefinition.clar,f/e/fe1a7d25219e4b3d782df3c3fb0364af085b5dc8
 X
 (tests/reality-axiom-redefinition.test.ts,f/1/f1326a91b4cb60b181959f7b0da3b67463153932
+_
+/contracts/logical-consistency-preservation.clar,5/7/5791722d49330cfc76230ac7dd8d8dd03aba78e4
