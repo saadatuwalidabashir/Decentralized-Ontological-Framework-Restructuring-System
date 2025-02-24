@@ -7,3 +7,5 @@ X
 (tests/reality-axiom-redefinition.test.ts,f/1/f1326a91b4cb60b181959f7b0da3b67463153932
 _
 /contracts/logical-consistency-preservation.clar,5/7/5791722d49330cfc76230ac7dd8d8dd03aba78e4
+^
+.tests/logical-consistency-preservation.test.ts,d/8/d87f2c8a45c73d2c830e5773690cc42470d1a3db
