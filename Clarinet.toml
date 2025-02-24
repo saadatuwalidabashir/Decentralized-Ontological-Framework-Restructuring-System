@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.conceptual-incompatibility-resolution]
+path = 'contracts/conceptual-incompatibility-resolution.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.logical-consistency-preservation]
 path = 'contracts/logical-consistency-preservation.clar'
 clarity_version = 2
