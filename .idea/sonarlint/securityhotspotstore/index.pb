@@ -13,3 +13,7 @@ c
 3tests/conceptual-incompatibility-resolution.test.ts,9/b/9bba17b7b54f96d11b0e043e13d3d768996e5091
 d
 4contracts/conceptual-incompatibility-resolution.clar,c/e/ced03fbeba827668c951c2cc7d2cd28e4d0c3d83
+T
+$contracts/existential-bootstrap.clar,2/8/28e7bfda383e3f649343369cddeca3cf4c7d934f
+S
+#tests/existential-bootstrap.test.ts,5/7/5735a64d9496c5f978a018385055d402a189095d

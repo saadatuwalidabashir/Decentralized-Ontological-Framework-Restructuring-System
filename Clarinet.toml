@@ -10,6 +10,11 @@ path = 'contracts/conceptual-incompatibility-resolution.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.existential-bootstrap]
+path = 'contracts/existential-bootstrap.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.logical-consistency-preservation]
 path = 'contracts/logical-consistency-preservation.clar'
 clarity_version = 2
