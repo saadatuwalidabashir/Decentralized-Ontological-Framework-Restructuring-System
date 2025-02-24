@@ -50,6 +50,16 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: conceptual-incompatibility-resolution
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/conceptual-incompatibility-resolution.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: existential-bootstrap
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/existential-bootstrap.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: logical-consistency-preservation
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/logical-consistency-preservation.clar
